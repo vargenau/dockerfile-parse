@@ -38,7 +38,7 @@ setup(
     author='Jiri Popelka',
     author_email='jpopelka@redhat.com',
     url='https://github.com/containerbuildsystem/dockerfile-parse',
-    license="BSD",
+    license="BSD-3-Clause",
     packages=find_packages(exclude=["tests"]),
     python_requires='>=3.6',
     install_requires=[],
